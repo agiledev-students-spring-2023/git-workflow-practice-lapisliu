@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article: Modifying the Linux Kernel
+Link: [Modifying The Linux Kernel](https://levelup.gitconnected.com/create-your-own-system-calls-part-2-process-weights-97d5e66f56f3).
+
+This is an article that provides instructions on ways to modify the linux kernel. It's interesting to understand how one can customize one's own operating system.
