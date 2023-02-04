@@ -6,3 +6,7 @@ This is an article that provides instructions on ways to modify the linux kernel
 As the author described at the end of this article:
 
 > Can you think of some new interesting features you can add? Maybe it will be your next coding project.
+
+### Comments
+
+1. ``LBYPatrick``: Google has done such thing to utilize their now-merged-by-linux TCP congestion algorithm called BBR. Read [this](https://cloud.google.com/blog/products/networking/tcp-bbr-congestion-control-comes-to-gcp-your-internet-just-got-faster) article for more information. 
